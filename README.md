@@ -4,4 +4,4 @@
 
 ### Gif
 
-<img src="screen.gif" />
+<img src="screen.gif" /># Trendyol-Clone
